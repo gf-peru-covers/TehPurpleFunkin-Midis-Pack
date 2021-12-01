@@ -1,4 +1,4 @@
-# TehPurpleFunkin-Shitty-Midis-Pack
+# TehPurpleFunkin-Midis-Pack
 
 Midis hechos en FL Studio
 
